@@ -1,6 +1,6 @@
 [
     {
-        "text": "Something",
+        "text": "Neutral",
         "effect": [
             1,
             1,
@@ -8,6 +8,94 @@
             1,
             1,
             1
+        ]
+    },
+    {
+        "text": "Levelled",
+        "effect": [
+            1,
+            0,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "text": "Stratified",
+        "effect": [
+            -1,
+            0,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "text": "Usage",
+        "effect": [
+            0,
+            1,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "text": "Rent",
+        "effect": [
+            0,
+            -1,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "text": "Needs",
+        "effect": [
+            0,
+            0,
+            1,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "text": "Demand",
+        "effect": [
+            0,
+            0,
+            -1,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "text": "Central",
+        "effect": [
+            0,
+            0,
+            0,
+            1,
+            0,
+            0
+        ]
+    },
+    {
+        "text": "Decentral",
+        "effect": [
+            0,
+            0,
+            0,
+            -1,
+            0,
+            0
         ]
     }
 ]

@@ -52,7 +52,7 @@
                 "name": "Central",
                 "color": "#00c080",
                 "icon": "./assets/icons/central.svg",
-                "blurb": "Those with higher Central scores tend to believe that the economy should be organized as a whole, that key industry should be state-owned, and at high values, in corporatism."
+                "blurb": "Those with higher Central scores tend to believe that the economy should be organized as one cohesive entity, that key industry should be state-owned, and at high values, in corporatism."
             },
             "rightvalue": {
                 "name": "Local",
@@ -73,7 +73,7 @@
                 "name": "Employed",
                 "color": "#00a000",
                 "icon": "./assets/icons/employed.svg",
-                "blurb": "Those with higher Employed scores tend to believe in luddism, keeping manual labor made by hand, and at high values, in agrarianism."
+                "blurb": "Those with higher Employed scores tend to believe in luddism, keeping labor made by hand, and at high values, in agrarianism."
             }
         },
         {

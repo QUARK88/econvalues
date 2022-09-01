@@ -64,7 +64,7 @@ const axisLabels = ui.axes.map(x => x.axisname + " axis")
 const button = document.getElementById("download1")!
 button.addEventListener<"click">("click", () => {
     const link = document.createElement("a")
-    link.download = "dv.png"
+    link.download = "EconValues Results.png"
     const canvas = <HTMLCanvasElement>document.getElementById("results1")!
     link.href = canvas.toDataURL("image/png")
     link.click()

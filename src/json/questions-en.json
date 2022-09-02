@@ -2,10 +2,10 @@
     {
         "text": "Click Neutral",
         "effect": [
-            1,
-            1,
-            1,
-            1,
+            0,
+            0,
+            0,
+            0,
             1,
             1
         ]
@@ -270,6 +270,94 @@
             0,
             0,
             -2,
+            0,
+            0
+        ]
+    },
+    {
+        "text": "Land rent is unproductive profit.",
+        "effect": [
+            0,
+            1,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "text": "It should be mandatory to improve a terrain in order to own it.",
+        "effect": [
+            0,
+            1,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "text": "Natural resources don't inherently belong to anyone.",
+        "effect": [
+            0,
+            1,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "text": "All land should be commonly owned.",
+        "effect": [
+            0,
+            2,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "text": "The right to own land is essential to any successful economy.",
+        "effect": [
+            0,
+            -1,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "text": "Landlords provide an essential service.",
+        "effect": [
+            0,
+            -1,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "text": "Taxation on land property should be eliminated.",
+        "effect": [
+            0,
+            -1,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "text": "If someone is first to claim an area of land, they are entitled to profit from it.",
+        "effect": [
+            0,
+            -2,
+            0,
+            0,
             0,
             0
         ]

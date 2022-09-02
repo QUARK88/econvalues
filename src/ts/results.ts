@@ -41,9 +41,6 @@ for (let i = 1; i < 5; i++) {
     nextLabels.push(matches[i].name)
 }
 score2.textContent += nextLabels.join(", ")
-//Adds description
-const desc = document.getElementById("desc")!
-desc.textContent = matches[0].desc
 //Button to index
 const backButton = document.getElementById("back_button")!
 backButton.addEventListener<"click">("click",() =>

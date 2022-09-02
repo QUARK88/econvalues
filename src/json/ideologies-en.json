@@ -8,8 +8,7 @@
             75,
             50,
             50
-        ],
-        "desc": "Description in progress."
+        ]
     },
     {
         "name": "Social Democracy",
@@ -20,8 +19,7 @@
             65,
             50,
             40
-        ],
-        "desc": "Description in progress."
+        ]
     },
     {
         "name": "Feudalism",
@@ -32,8 +30,7 @@
             20,
             15,
             90
-        ],
-        "desc": "Description in progress."
+        ]
     },
     {
         "name": "Lange Model",
@@ -44,8 +41,7 @@
             85,
             90,
             25
-        ],
-        "desc": "Description in progress."
+        ]
     },
     {
         "name": "Austrolibertarianism",
@@ -56,8 +52,7 @@
             25,
             50,
             10
-        ],
-        "desc": "Description in progress."
+        ]
     },
     {
         "name": "Crypto-Anarchism",
@@ -68,8 +63,7 @@
             0,
             90,
             0
-        ],
-        "desc": "Description in progress."
+        ]
     },
     {
         "name": "Neoliberalism",
@@ -80,8 +74,7 @@
             60,
             65,
             20
-        ],
-        "desc": "Description in progress."
+        ]
     },
     {
         "name": "Georgism",
@@ -92,8 +85,7 @@
             35,
             60,
             20
-        ],
-        "desc": "Description in progress."
+        ]
     },
     {
         "name": "Council Communism",
@@ -104,8 +96,7 @@
             25,
             70,
             50
-        ],
-        "desc": "Description in progress."
+        ]
     },
     {
         "name": "Anarcho-Capitalism",
@@ -116,8 +107,7 @@
             0,
             60,
             0
-        ],
-        "desc": "Description in progress."
+        ]
     },
     {
         "name": "Geo-Anarchism",
@@ -128,8 +118,7 @@
             0,
             60,
             0
-        ],
-        "desc": "Description in progress."
+        ]
     },
     {
         "name": "Mutualism",
@@ -140,8 +129,7 @@
             0,
             65,
             10
-        ],
-        "desc": "Description in progress."
+        ]
     },
     {
         "name": "State Capitalism",
@@ -152,8 +140,7 @@
             85,
             50,
             35
-        ],
-        "desc": "Description in progress."
+        ]
     },
     {
         "name": "Cameralism",
@@ -164,8 +151,7 @@
             95,
             50,
             70
-        ],
-        "desc": "Description in progress."
+        ]
     },
     {
         "name": "Market Socialism",
@@ -176,8 +162,7 @@
             45,
             60,
             30
-        ],
-        "desc": "Description in progress."
+        ]
     },
     {
         "name": "Libertarian Market Socialism",
@@ -188,8 +173,7 @@
             20,
             60,
             15
-        ],
-        "desc": "Description in progress."
+        ]
     },
     {
         "name": "State Corporatism",
@@ -200,8 +184,7 @@
             85,
             50,
             75
-        ],
-        "desc": "Description in progress."
+        ]
     },
     {
         "name": "Proutism",
@@ -212,8 +195,7 @@
             20,
             25,
             80
-        ],
-        "desc": "Description in progress."
+        ]
     },
     {
         "name": "Anarcho-Communism",
@@ -224,8 +206,7 @@
             0,
             65,
             40
-        ],
-        "desc": "Description in progress."
+        ]
     },
     {
         "name": "State Socialism",
@@ -236,8 +217,7 @@
             80,
             55,
             60
-        ],
-        "desc": "Description in progress."
+        ]
     },
     {
         "name": "Neocameralism",
@@ -248,8 +228,7 @@
             95,
             100,
             40
-        ],
-        "desc": "Description in progress."
+        ]
     },
     {
         "name": "Social Georgism",
@@ -260,8 +239,7 @@
             40,
             60,
             20
-        ],
-        "desc": "Description in progress."
+        ]
     },
     {
         "name": "Geosyndicalism",
@@ -272,8 +250,7 @@
             15,
             60,
             10
-        ],
-        "desc": "Description in progress."
+        ]
     },
     {
         "name": "National-Anarchism",
@@ -284,8 +261,7 @@
             0,
             65,
             90
-        ],
-        "desc": "Description in progress."
+        ]
     },
     {
         "name": "Guild Socialism",
@@ -296,8 +272,7 @@
             30,
             35,
             50
-        ],
-        "desc": "Description in progress."
+        ]
     },
     {
         "name": "Palace Economy",
@@ -308,8 +283,7 @@
             85,
             35,
             65
-        ],
-        "desc": "Description in progress."
+        ]
     },
     {
         "name": "Market Anarchism",
@@ -320,8 +294,7 @@
             0,
             65,
             10
-        ],
-        "desc": "Description in progress."
+        ]
     },
     {
         "name": "Corporatocracy",
@@ -332,8 +305,7 @@
             90,
             55,
             30
-        ],
-        "desc": "Description in progress."
+        ]
     },
     {
         "name": "Agorism",
@@ -344,8 +316,7 @@
             0,
             50,
             40
-        ],
-        "desc": "Description in progress."
+        ]
     },
     {
         "name": "Ordoliberalism",
@@ -356,8 +327,7 @@
             65,
             55,
             40
-        ],
-        "desc": "Description in progress."
+        ]
     },
     {
         "name": "Diggerism",
@@ -368,8 +338,7 @@
             0,
             20,
             60
-        ],
-        "desc": "Description in progress."
+        ]
     },
     {
         "name": "Mercantilism",
@@ -380,8 +349,7 @@
             75,
             30,
             85
-        ],
-        "desc": "Description in progress."
+        ]
     },
     {
         "name": "Distributism",
@@ -392,8 +360,7 @@
             25,
             40,
             65
-        ],
-        "desc": "Description in progress."
+        ]
     },
     {
         "name": "Dengism",
@@ -404,8 +371,7 @@
             80,
             65,
             75
-        ],
-        "desc": "Description in progress."
+        ]
     },
     {
         "name": "Technocracy",
@@ -416,8 +382,7 @@
             90,
             100,
             75
-        ],
-        "desc": "Description in progress."
+        ]
     },
     {
         "name": "Anarcho-Primitivism",
@@ -428,8 +393,7 @@
             0,
             0,
             75
-        ],
-        "desc": "Description in progress."
+        ]
     },
     {
         "name": "Social Corporatism",
@@ -440,8 +404,7 @@
             85,
             50,
             65
-        ],
-        "desc": "Description in progress."
+        ]
     },
     {
         "name": "Meritocratic Capitalism",
@@ -452,8 +415,7 @@
             45,
             80,
             15
-        ],
-        "desc": "Description in progress."
+        ]
     },
     {
         "name": "Gift Economy",
@@ -464,8 +426,7 @@
             0,
             50,
             50
-        ],
-        "desc": "Description in progress."
+        ]
     },
     {
         "name": "Slave Economy",
@@ -476,8 +437,7 @@
             0,
             25,
             60
-        ],
-        "desc": "Description in progress."
+        ]
     },
     {
         "name": "Geolibertarianism",
@@ -488,7 +448,17 @@
             25,
             60,
             10
-        ],
-        "desc": "Description in progress."
+        ]
+    },
+    {
+        "name": "Cooperativism",
+        "stats": [
+            70,
+            75,
+            50,
+            40,
+            60,
+            25
+        ]
     }
 ]

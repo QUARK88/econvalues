@@ -1,6 +1,6 @@
 [
     {
-        "text": "Neutral",
+        "text": "Click Neutral",
         "effect": [
             1,
             1,
@@ -11,7 +11,7 @@
         ]
     },
     {
-        "text": "Levelled",
+        "text": "Anyone should be able to level up with enough work.",
         "effect": [
             1,
             0,
@@ -22,40 +22,84 @@
         ]
     },
     {
-        "text": "Stratified",
+        "text": "Workers deserve a greater part of what they create.",
         "effect": [
-            -1,
-            0,
-            0,
-            0,
-            0,
-            0
-        ]
-    },
-    {
-        "text": "Usage",
-        "effect": [
-            0,
             1,
             0,
             0,
             0,
+            0,
             0
         ]
     },
     {
-        "text": "Rent",
+        "text": "Inheritance should be abolished in its totality.",
         "effect": [
+            1,
             0,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "text": "Means of production should be freely accessible to the population.",
+        "effect": [
+            2,
+            0,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "text": "Production requires a top-down structure to work.",
+        "effect": [
             -1,
             0,
             0,
             0,
+            0,
             0
         ]
     },
     {
-        "text": "Needs",
+        "text": "We should fire workers who threaten to strike.",
+        "effect": [
+            -1,
+            0,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "text": "Bosses know what's best for their workers.",
+        "effect": [
+            -1,
+            0,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "text": "The existence of different social classes isn't unfairly exploitative.",
+        "effect": [
+            -2,
+            0,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "text": "In an ideal society, money would not exist.",
         "effect": [
             0,
             0,
@@ -66,34 +110,78 @@
         ]
     },
     {
-        "text": "Demand",
+        "text": "People should not have to pay for healthcare.",
         "effect": [
-            0,
-            0,
-            -1,
-            0,
-            0,
-            0
-        ]
-    },
-    {
-        "text": "Central",
-        "effect": [
-            0,
             0,
             0,
             1,
             0,
+            0,
             0
         ]
     },
     {
-        "text": "Decentral",
+        "text": "It's wasteful to have so many different brands of the same good.",
         "effect": [
             0,
             0,
+            1,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "text": "Food, housing and clothes for all are a must.",
+        "effect": [
+            0,
+            0,
+            2,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "text": "The prices of goods should be set by the market.",
+        "effect": [
+            0,
             0,
             -1,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "text": "A large welfare state breeds an unhealthy culture of reliance.",
+        "effect": [
+            0,
+            0,
+            -1,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "text": "There is no such thing as excessive consumerism.",
+        "effect": [
+            0,
+            0,
+            -1,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "text": "No matter how dangerous it is, if a good is wanted, it should be sold.",
+        "effect": [
+            0,
+            0,
+            -2,
+            0,
             0,
             0
         ]

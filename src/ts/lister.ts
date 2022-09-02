@@ -8,7 +8,7 @@ lang = ui.lang ?? lang
 const rawScores: string = params.get("score") ?? "50,50,50,50,50,50"
 const scores: Array<number> = rawScores.split(",").map(v => parseFloat(v))
 const ideologies: Array<Ideology> = getJson("ideologies-" + lang)
-const weights: Array<number> = [1, 0.9, 1, 0.6, 0.6, 0.7]
+const weights: Array<number> = [1, 0.6, 0.8, 1, 0.4, 0.3]
 const matches: Array<Ideology> = orderScores(scores, weights, ideologies)
 
 const abscheck = <HTMLInputElement> document.getElementById("abs")

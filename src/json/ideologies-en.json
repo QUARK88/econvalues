@@ -14,9 +14,9 @@
     {
         "name": "Social Democracy",
         "stats": [
-            40,
             50,
-            45,
+            50,
+            65,
             65,
             50,
             40
@@ -86,9 +86,9 @@
     {
         "name": "Georgism",
         "stats": [
-            30,
+            40,
             80,
-            15,
+            25,
             35,
             60,
             20
@@ -223,7 +223,7 @@
             80,
             0,
             65,
-            20
+            40
         ],
         "desc": "Description in progress."
     },
@@ -254,7 +254,7 @@
     {
         "name": "Social Georgism",
         "stats": [
-            35,
+            45,
             85,
             30,
             40,
@@ -416,6 +416,78 @@
             90,
             100,
             75
+        ],
+        "desc": "Description in progress."
+    },
+    {
+        "name": "Anarcho-Primitivism",
+        "stats": [
+            100,
+            100,
+            80,
+            0,
+            0,
+            75
+        ],
+        "desc": "Description in progress."
+    },
+    {
+        "name": "Social Corporatism",
+        "stats": [
+            65,
+            65,
+            65,
+            85,
+            50,
+            65
+        ],
+        "desc": "Description in progress."
+    },
+    {
+        "name": "Meritocratic Capitalism",
+        "stats": [
+            55,
+            80,
+            10,
+            45,
+            80,
+            15
+        ],
+        "desc": "Description in progress."
+    },
+    {
+        "name": "Gift Economy",
+        "stats": [
+            100,
+            100,
+            100,
+            0,
+            50,
+            50
+        ],
+        "desc": "Description in progress."
+    },
+    {
+        "name": "Slave Economy",
+        "stats": [
+            0,
+            0,
+            10,
+            0,
+            25,
+            60
+        ],
+        "desc": "Description in progress."
+    },
+    {
+        "name": "Geolibertarianism",
+        "stats": [
+            40,
+            80,
+            15,
+            25,
+            60,
+            10
         ],
         "desc": "Description in progress."
     }

@@ -1,0 +1,35 @@
+doctype html
+html
+    include includes/tags
+    body
+        a(
+            href="https://github.com/QUARK88/econvalues"
+            class="github-corner"
+            aria-label="View source on Github"
+            )
+            include includes/github.svg
+        select(id="langDropdown")
+        h1(id="title")
+        div(id="column-holder")
+        button(id="start_button")
+        button(id="matches_button" class="small")
+        h2(id="whatis")
+        p(id="whatis_text")
+        h2(id="whatare12v")
+        p(id="whatare12v_text")
+        div(id="values-explaination")
+        h2(id="whatisclosestmatch")
+        p(id="whatisclosestmatch_text")
+        if discord
+            iframe(
+                src="https://discord.com/widget?id=836684237977550878&theme=dark"
+                width="100%"
+                height="512"
+                allowtransparency="true"
+                frameborder="0"
+                sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"
+                )
+        div(class="plainlinks")
+            h2(id="credits")
+            p(id="credits-list")
+        script(type="module" src="./dist/index.js")

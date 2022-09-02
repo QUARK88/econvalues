@@ -1,0 +1,475 @@
+[
+    {
+        "name": "Dirigisme",
+        "stats": [
+            25,
+            50,
+            35,
+            75,
+            50,
+            50
+        ]
+    },
+    {
+        "name": "Social Democracy",
+        "stats": [
+            50,
+            50,
+            65,
+            65,
+            50,
+            40
+        ]
+    },
+    {
+        "name": "Feudalism",
+        "stats": [
+            10,
+            0,
+            15,
+            20,
+            15,
+            90
+        ]
+    },
+    {
+        "name": "Lange Model",
+        "stats": [
+            80,
+            80,
+            15,
+            85,
+            90,
+            25
+        ]
+    },
+    {
+        "name": "Austrolibertarianism",
+        "stats": [
+            20,
+            10,
+            5,
+            25,
+            50,
+            10
+        ]
+    },
+    {
+        "name": "Crypto-Anarchism",
+        "stats": [
+            60,
+            60,
+            0,
+            0,
+            90,
+            0
+        ]
+    },
+    {
+        "name": "Neoliberalism",
+        "stats": [
+            30,
+            25,
+            20,
+            60,
+            65,
+            20
+        ]
+    },
+    {
+        "name": "Georgism",
+        "stats": [
+            40,
+            80,
+            25,
+            35,
+            60,
+            20
+        ]
+    },
+    {
+        "name": "Council Communism",
+        "stats": [
+            95,
+            100,
+            90,
+            25,
+            70,
+            50
+        ]
+    },
+    {
+        "name": "Anarcho-Capitalism",
+        "stats": [
+            20,
+            10,
+            0,
+            0,
+            60,
+            0
+        ]
+    },
+    {
+        "name": "Geo-Anarchism",
+        "stats": [
+            60,
+            80,
+            10,
+            0,
+            60,
+            0
+        ]
+    },
+    {
+        "name": "Mutualism",
+        "stats": [
+            90,
+            90,
+            20,
+            0,
+            65,
+            10
+        ]
+    },
+    {
+        "name": "State Capitalism",
+        "stats": [
+            10,
+            10,
+            20,
+            85,
+            50,
+            35
+        ]
+    },
+    {
+        "name": "Cameralism",
+        "stats": [
+            10,
+            10,
+            30,
+            95,
+            50,
+            70
+        ]
+    },
+    {
+        "name": "Market Socialism",
+        "stats": [
+            80,
+            80,
+            65,
+            45,
+            60,
+            30
+        ]
+    },
+    {
+        "name": "Libertarian Market Socialism",
+        "stats": [
+            85,
+            80,
+            40,
+            25,
+            60,
+            15
+        ]
+    },
+    {
+        "name": "State Corporatism",
+        "stats": [
+            25,
+            60,
+            60,
+            85,
+            50,
+            75
+        ]
+    },
+    {
+        "name": "Proutism",
+        "stats": [
+            90,
+            100,
+            60,
+            20,
+            25,
+            80
+        ]
+    },
+    {
+        "name": "Anarcho-Communism",
+        "stats": [
+            100,
+            100,
+            80,
+            0,
+            65,
+            40
+        ]
+    },
+    {
+        "name": "State Socialism",
+        "stats": [
+            65,
+            90,
+            80,
+            80,
+            55,
+            60
+        ]
+    },
+    {
+        "name": "Neocameralism",
+        "stats": [
+            5,
+            5,
+            10,
+            95,
+            100,
+            40
+        ]
+    },
+    {
+        "name": "Social Georgism",
+        "stats": [
+            45,
+            85,
+            30,
+            40,
+            60,
+            20
+        ]
+    },
+    {
+        "name": "Geosyndicalism",
+        "stats": [
+            80,
+            80,
+            20,
+            15,
+            60,
+            10
+        ]
+    },
+    {
+        "name": "National-Anarchism",
+        "stats": [
+            90,
+            90,
+            20,
+            0,
+            65,
+            90
+        ]
+    },
+    {
+        "name": "Guild Socialism",
+        "stats": [
+            80,
+            90,
+            70,
+            35,
+            30,
+            50
+        ]
+    },
+    {
+        "name": "Palace Economy",
+        "stats": [
+            10,
+            5,
+            60,
+            85,
+            35,
+            65
+        ]
+    },
+    {
+        "name": "Market Anarchism",
+        "stats": [
+            80,
+            80,
+            0,
+            0,
+            65,
+            10
+        ]
+    },
+    {
+        "name": "Corporatocracy",
+        "stats": [
+            15,
+            5,
+            5,
+            90,
+            55,
+            30
+        ]
+    },
+    {
+        "name": "Agorism",
+        "stats": [
+            60,
+            50,
+            0,
+            0,
+            50,
+            40
+        ]
+    },
+    {
+        "name": "Ordoliberalism",
+        "stats": [
+            30,
+            25,
+            20,
+            65,
+            55,
+            40
+        ]
+    },
+    {
+        "name": "Diggerism",
+        "stats": [
+            90,
+            100,
+            40,
+            0,
+            20,
+            60
+        ]
+    },
+    {
+        "name": "Mercantilism",
+        "stats": [
+            10,
+            0,
+            10,
+            75,
+            30,
+            85
+        ]
+    },
+    {
+        "name": "Distributism",
+        "stats": [
+            30,
+            60,
+            70,
+            25,
+            40,
+            65
+        ]
+    },
+    {
+        "name": "Dengism",
+        "stats": [
+            20,
+            30,
+            25,
+            80,
+            65,
+            75
+        ]
+    },
+    {
+        "name": "Technocracy",
+        "stats": [
+            50,
+            90,
+            65,
+            90,
+            100,
+            75
+        ]
+    },
+    {
+        "name": "Anarcho-Primitivism",
+        "stats": [
+            100,
+            100,
+            80,
+            0,
+            0,
+            75
+        ]
+    },
+    {
+        "name": "Social Corporatism",
+        "stats": [
+            65,
+            65,
+            65,
+            85,
+            50,
+            65
+        ]
+    },
+    {
+        "name": "Meritocratic Capitalism",
+        "stats": [
+            55,
+            80,
+            10,
+            45,
+            80,
+            15
+        ]
+    },
+    {
+        "name": "Gift Economy",
+        "stats": [
+            100,
+            100,
+            100,
+            0,
+            50,
+            50
+        ]
+    },
+    {
+        "name": "Slave Economy",
+        "stats": [
+            0,
+            0,
+            10,
+            40,
+            25,
+            60
+        ]
+    },
+    {
+        "name": "Geolibertarianism",
+        "stats": [
+            40,
+            80,
+            15,
+            25,
+            60,
+            10
+        ]
+    },
+    {
+        "name": "Cooperativism",
+        "stats": [
+            70,
+            75,
+            50,
+            40,
+            60,
+            25
+        ]
+    },
+    {
+        "name": "Anarcho-Transhumanism",
+        "stats": [
+            90,
+            90,
+            50,
+            0,
+            100,
+            10
+        ]
+    }
+]

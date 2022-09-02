@@ -1,0 +1,15 @@
+{
+    "compilerOptions": {
+        "outDir": "dist",
+        "rootDir": "src/ts",
+        "sourceMap": true,
+        "lib": [
+            "DOM",
+            "ES2022"
+        ],
+        "module": "ES2022",
+        "target": "ES2022",
+        "removeComments": true,
+        "strict": true
+    }
+}

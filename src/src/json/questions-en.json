@@ -1,0 +1,530 @@
+[
+    {
+        "text": "Anyone should be able to level up with enough work.",
+        "effect": [
+            1,
+            0,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "text": "Workers deserve a greater part of what they create.",
+        "effect": [
+            1,
+            0,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "text": "Inheritance should be abolished in its totality.",
+        "effect": [
+            1,
+            0,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "text": "Means of production should be freely accessible to the population.",
+        "effect": [
+            2,
+            0,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "text": "Production requires a top-down structure to work.",
+        "effect": [
+            -1,
+            0,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "text": "We should fire workers who threaten to strike.",
+        "effect": [
+            -1,
+            0,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "text": "Bosses know what's best for their workers.",
+        "effect": [
+            -1,
+            0,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "text": "The existence of different social classes isn't unfairly exploitative.",
+        "effect": [
+            -2,
+            0,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "text": "In an ideal society, money would not exist.",
+        "effect": [
+            0,
+            0,
+            1,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "text": "People should not have to pay for healthcare.",
+        "effect": [
+            0,
+            0,
+            1,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "text": "It's wasteful to have so many different brands of the same good.",
+        "effect": [
+            0,
+            0,
+            1,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "text": "Food, housing and clothes for all are a must.",
+        "effect": [
+            0,
+            0,
+            2,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "text": "The prices of goods should be set by the market.",
+        "effect": [
+            0,
+            0,
+            -1,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "text": "A large welfare state breeds an unhealthy culture of reliance.",
+        "effect": [
+            0,
+            0,
+            -1,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "text": "There is no such thing as excessive consumerism.",
+        "effect": [
+            0,
+            0,
+            -1,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "text": "No matter how dangerous it is, if a good is wanted, it should be sold.",
+        "effect": [
+            0,
+            0,
+            -2,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "text": "Many key industries have to be nationalized.",
+        "effect": [
+            0,
+            0,
+            0,
+            1,
+            0,
+            0
+        ]
+    },
+    {
+        "text": "We should direct the economy to serve society.",
+        "effect": [
+            0,
+            0,
+            0,
+            1,
+            0,
+            0
+        ]
+    },
+    {
+        "text": "Work should comply to certain norms.",
+        "effect": [
+            0,
+            0,
+            0,
+            1,
+            0,
+            0
+        ]
+    },
+    {
+        "text": "The economy should be treated as an unified corpus.",
+        "effect": [
+            0,
+            0,
+            0,
+            2,
+            0,
+            0
+        ]
+    },
+    {
+        "text": "Income tax is tyrannical.",
+        "effect": [
+            0,
+            0,
+            0,
+            -1,
+            0,
+            0
+        ]
+    },
+    {
+        "text": "Monopolies negatively affect the economy.",
+        "effect": [
+            0,
+            0,
+            0,
+            -1,
+            0,
+            0
+        ]
+    },
+    {
+        "text": "Subsidies are counter-productive and intrusive.",
+        "effect": [
+            0,
+            0,
+            0,
+            -1,
+            0,
+            0
+        ]
+    },
+    {
+        "text": "All government intervention in the economy should be opposed.",
+        "effect": [
+            0,
+            0,
+            0,
+            -2,
+            0,
+            0
+        ]
+    },
+    {
+        "text": "Land rent is unproductive profit.",
+        "effect": [
+            0,
+            1,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "text": "It should be mandatory to improve a terrain in order to own it.",
+        "effect": [
+            0,
+            1,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "text": "Natural resources don't inherently belong to anyone.",
+        "effect": [
+            0,
+            1,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "text": "All land should be commonly owned.",
+        "effect": [
+            0,
+            2,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "text": "The right to own land is essential to any successful economy.",
+        "effect": [
+            0,
+            -1,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "text": "Landlords provide an essential service.",
+        "effect": [
+            0,
+            -1,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "text": "Taxation on land property should be eliminated.",
+        "effect": [
+            0,
+            -1,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "text": "If someone is first to claim an area of land, they are entitled to profit from it.",
+        "effect": [
+            0,
+            -2,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "text": "Mass-production was a massive improvement.",
+        "effect": [
+            0,
+            0,
+            0,
+            0,
+            1,
+            0
+        ]
+    },
+    {
+        "text": "Artificial intelligence is a great tool to enhance production.",
+        "effect": [
+            0,
+            0,
+            0,
+            0,
+            1,
+            0
+        ]
+    },
+    {
+        "text": "The loss of jobs provoked by automation is actually a positive thing.",
+        "effect": [
+            0,
+            0,
+            0,
+            0,
+            1,
+            0
+        ]
+    },
+    {
+        "text": "We should treat the whole economy as a mechanized system.",
+        "effect": [
+            0,
+            0,
+            0,
+            0,
+            2,
+            0
+        ]
+    },
+    {
+        "text": "Hand-made products are often of better quality than machine-made equivalents.",
+        "effect": [
+            0,
+            0,
+            0,
+            0,
+            -1,
+            0
+        ]
+    },
+    {
+        "text": "We, as a society, should value hardworking manual jobs.",
+        "effect": [
+            0,
+            0,
+            0,
+            0,
+            -1,
+            0
+        ]
+    },
+    {
+        "text": "It is worrying that people leave the countryside for industrial urban centers.",
+        "effect": [
+            0,
+            0,
+            0,
+            0,
+            -1,
+            0
+        ]
+    },
+    {
+        "text": "We should stop seeking economic efficiency above the meaning of work.",
+        "effect": [
+            0,
+            0,
+            0,
+            0,
+            -2,
+            0
+        ]
+    },
+    {
+        "text": "Even for an higher cost, we should prioritize buying locally.",
+        "effect": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            1
+        ]
+    },
+    {
+        "text": "Outsourcing jobs for cheap labor is not going to end well.",
+        "effect": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            1
+        ]
+    },
+    {
+        "text": "The workers here take precedence on overseas prosperity.",
+        "effect": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            1
+        ]
+    },
+    {
+        "text": "Our industry should not be reliant on external resources to function.",
+        "effect": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            2
+        ]
+    },
+    {
+        "text": "Limitations on buying foreign goods are a waste of resources.",
+        "effect": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            -1
+        ]
+    },
+    {
+        "text": "Our consumers should have access to various products from the world.",
+        "effect": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            -1
+        ]
+    },
+    {
+        "text": "Economic immigration should be fully welcomed, if not encouraged.",
+        "effect": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            -1
+        ]
+    },
+    {
+        "text": "We should engage in free trade agreements with other regions.",
+        "effect": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            -2
+        ]
+    }
+]

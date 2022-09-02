@@ -185,5 +185,93 @@
             0,
             0
         ]
+    },
+    {
+        "text": "Many key industries have to be nationalized.",
+        "effect": [
+            0,
+            0,
+            0,
+            1,
+            0,
+            0
+        ]
+    },
+    {
+        "text": "We should direct the economy to serve society.",
+        "effect": [
+            0,
+            0,
+            0,
+            1,
+            0,
+            0
+        ]
+    },
+    {
+        "text": "Work should comply to certain norms.",
+        "effect": [
+            0,
+            0,
+            0,
+            1,
+            0,
+            0
+        ]
+    },
+    {
+        "text": "The economy should be treated as an unified corpus.",
+        "effect": [
+            0,
+            0,
+            0,
+            2,
+            0,
+            0
+        ]
+    },
+    {
+        "text": "Income tax is tyrannical.",
+        "effect": [
+            0,
+            0,
+            0,
+            -1,
+            0,
+            0
+        ]
+    },
+    {
+        "text": "Monopolies negatively affect the economy.",
+        "effect": [
+            0,
+            0,
+            0,
+            -1,
+            0,
+            0
+        ]
+    },
+    {
+        "text": "Subsidies are counter-productive and intrusive.",
+        "effect": [
+            0,
+            0,
+            0,
+            -1,
+            0,
+            0
+        ]
+    },
+    {
+        "text": "All government intervention in the economy should be opposed.",
+        "effect": [
+            0,
+            0,
+            0,
+            -2,
+            0,
+            0
+        ]
     }
 ]

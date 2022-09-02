@@ -158,7 +158,7 @@
         "stats": [
             80,
             80,
-            65,
+            55,
             45,
             60,
             30
@@ -477,10 +477,76 @@
         "stats": [
             95,
             90,
-            50,
+            40,
             0,
             55,
             50
+        ]
+    },
+    {
+        "name": "Left-Rothbardianism",
+        "stats": [
+            35,
+            10,
+            0,
+            0,
+            50,
+            20
+        ]
+    },
+    {
+        "name": "Propertarianism",
+        "stats": [
+            15,
+            0,
+            0,
+            35,
+            50,
+            30
+        ]
+    },
+    {
+        "name": "Propertarianism",
+        "stats": [
+            15,
+            0,
+            0,
+            35,
+            50,
+            30
+        ]
+    },
+    {
+        "name": "Liberal Socialism",
+        "stats": [
+            75,
+            75,
+            35,
+            50,
+            60,
+            40
+        ]
+    },
+    {
+        "name": "Syndicalism",
+        "stats": [
+            85,
+            75,
+            35,
+            25,
+            55,
+            50
+        ]
+    },
+    {
+        "name": "Yellow Socialism",
+        "stats": [
+            80,
+            75,
+            55,
+            70,
+            50,
+            80
         ]
     }
 ]

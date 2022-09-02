@@ -77,33 +77,11 @@
         ]
     },
     {
-        "text": "The existence of different social classes isn't unfairly exploitative.",
+        "text": "The existence of different social classes isn't inherently exploitative.",
         "effect": [
             -2,
             0,
             0,
-            0,
-            0,
-            0
-        ]
-    },
-    {
-        "text": "In an ideal society, money would not exist.",
-        "effect": [
-            0,
-            0,
-            1,
-            0,
-            0,
-            0
-        ]
-    },
-    {
-        "text": "People should not have to pay for healthcare.",
-        "effect": [
-            0,
-            0,
-            1,
             0,
             0,
             0
@@ -121,7 +99,29 @@
         ]
     },
     {
-        "text": "Food, housing and clothes for all are a must.",
+        "text": "A free market causes unemployment to rise dangerously.",
+        "effect": [
+            0,
+            0,
+            1,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "text": "We should force the production of basic utilities.",
+        "effect": [
+            0,
+            0,
+            1,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "text": "All goods should be provided without the need for trade.",
         "effect": [
             0,
             0,
@@ -143,7 +143,7 @@
         ]
     },
     {
-        "text": "A large welfare state breeds an unhealthy culture of reliance.",
+        "text": "Competition drives innovation.",
         "effect": [
             0,
             0,
@@ -154,7 +154,7 @@
         ]
     },
     {
-        "text": "There is no such thing as excessive consumerism.",
+        "text": "A market is required in order to know what people want.",
         "effect": [
             0,
             0,

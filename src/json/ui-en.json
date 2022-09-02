@@ -34,16 +34,16 @@
         {
             "axisname": "Production",
             "leftvalue": {
-                "name": "Needs",
+                "name": "Planning",
                 "color": "#a000c0",
-                "icon": "./assets/icons/needs.svg",
-                "blurb": "Those with higher Needs scores tend to believe that individuals have innate requirements, that we should direct the economy away from luxuries, and at high values, in planning."
+                "icon": "./assets/icons/planning.svg",
+                "blurb": "Those with higher Planning scores tend to believe that individuals have innate requirements, that we should direct the economy away from luxuries, and at high values, in planning."
             },
             "rightvalue": {
-                "name": "Demand",
+                "name": "Markets",
                 "color": "#ffe000",
-                "icon": "./assets/icons/demand.svg",
-                "blurb": "Those with higher Demand scores tend to believe that individuals each have separate wants, that we should allow free production of goods, and at high values, in laissez-faire."
+                "icon": "./assets/icons/markets.svg",
+                "blurb": "Those with higher Markets scores tend to believe that individuals each have separate wants, that we should allow free production of goods, and at high values, in laissez-faire."
             }
         },
         {

@@ -10,7 +10,6 @@ const random: boolean = params.get("rand") === "true"
 const questions: Array<Question> = getJson("questions-" + lang)
 //Loads text elements
 for (const elm of Object.keys(ui.quiztext.text)) {
-    console.log(elm)
     document.getElementById(elm)!.textContent = ui.quiztext.text[elm]
 }
 
@@ -79,11 +78,9 @@ function calcScores(): void {
     if (questions[0]?.ogIndex !== undefined) {
         //sorts answers based on ogindex
         questions.forEach((v, i) => sortedAnswers[v.ogIndex!] = answers[i])
-    } else {
-        sortedAnswers = answers
     }
     //for each sorted answer caculates the actual score
-    sortedAnswers.forEach((value, index) =>
+    answers.forEach((value, index) =>
         questions[index].effect.forEach((v, i) =>
             score[i] += weights[value] * v
         )

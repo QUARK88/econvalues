@@ -30,7 +30,7 @@ const canvas: Canvas = new Canvas(canvasElm, 800, 880, "textfont", fg, bg)
 const version: string = ui.resultstext.version_name + ": " + window.VERSION
 //Grabs ideologies list from json and parses their matches
 const ideologies: Array<Ideology> = getJson("ideologies-" + lang)
-const weights: Array<number> = [1, 0.6, 0.8, 1, 0.4, 0.3]
+const weights: Array<number> = [1, 0.6, 1, 1, 0.3, 0.3]
 const matches: Array<Ideology> = orderScores(scores, weights, ideologies)
 //Adds the name to text only elements
 for (const elm of Object.keys(ui.resultstext.text)) {
